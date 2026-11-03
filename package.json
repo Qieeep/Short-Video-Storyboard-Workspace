@@ -1,0 +1,18 @@
+{
+  "name": "storyboard-desk",
+  "version": "1.0.2",
+  "description": "按镜头整理画面、口播、素材与时长，导出分镜表和素材清单。",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test tests/core.test.cjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "offline",
+    "browser",
+    "local-first",
+    "tool"
+  ]
+}

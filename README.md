@@ -1,6 +1,3 @@
-[Uploading README.md…]()
-# Short-Video-Storyboard-Workspace
-Short Video Storyboard Workspace:Organize the shots, narration, materials, and timing, then export the storyboard and material list.-------浙创OPC创业社区
 # 短视频分镜工作台
 
 按镜头整理画面、口播、素材与时长，导出分镜表和素材清单。

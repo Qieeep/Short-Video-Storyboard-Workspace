@@ -1,0 +1,30 @@
+{
+  "format": "opc-offline-backup",
+  "version": 1,
+  "project": "A06",
+  "data": {
+    "_files": {},
+    "project": "水杯20秒展示",
+    "target": 20,
+    "items": [
+      {
+        "scene": "手拿水杯出门",
+        "voice": "随身带走一杯温暖",
+        "asset": "手持近景",
+        "seconds": 5
+      },
+      {
+        "scene": "杯口与杯身细节",
+        "voice": "简洁外观，方便携带",
+        "asset": "商品细节照片",
+        "seconds": 10
+      },
+      {
+        "scene": "产品定格",
+        "voice": "选一款你的日常搭档",
+        "asset": "成品主图",
+        "seconds": 5
+      }
+    ]
+  }
+}
